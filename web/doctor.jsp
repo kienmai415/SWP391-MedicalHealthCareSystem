@@ -866,9 +866,6 @@
                                 <a class="nav-link" href="contact">Liên hệ</a>
                             </li>
                         </ul>
-                        <button class="btn btn-primary ms-lg-4" data-bs-toggle="modal" data-bs-target="#loginModal">
-                            <i class="bi bi-person-fill me-2"></i><a class="nav-link" href="login">Đăng nhập</a>
-                        </button>
                     </div>
                 </div>
             </nav>
